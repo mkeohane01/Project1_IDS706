@@ -1,4 +1,4 @@
-name: Python Autoactions
+name: Continuous Integration
 on: [push, pull_request]
 
 jobs:
@@ -12,15 +12,15 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.9 
+        python-version: 3.x
 
-    - name: Install dependencies
+    - name: Install Requirements
       run: make install
 
     - name: Lint
       run: make lint
 
-    - name: Run tests
+    - name: Test
       run: make test
 
     - name: Format
