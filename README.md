@@ -1,6 +1,7 @@
 # Polars decription and visualization
 
-[![Python Autoactions](https://github.com/mkeohane01/IDS709-MP3-Polars/actions/workflows/main.yml/badge.svg)](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/main.yml)
+![Command 1 Status](https://img.shields.io/badge/Command%201-${{ steps.run.outputs.command-1-status }}-install)
+![Command 2 Status](https://img.shields.io/badge/Command%202-${{ steps.run.outputs.command-2-status }}-lint)
 
 Using the polars libary was able to load, decribe, and plot various visulaztions of a basebal data set.
 
