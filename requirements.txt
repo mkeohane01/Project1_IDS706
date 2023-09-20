@@ -1,6 +1,6 @@
 black
 pytest
-pylint
+ruff
 matplotlib
 pandas
 numpy
