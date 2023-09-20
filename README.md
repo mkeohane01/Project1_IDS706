@@ -1,7 +1,12 @@
 # Polars decription and visualization
 
-![Command 1 Status](https://img.shields.io/badge/Command%201-${{ steps.run.outputs.command-1-status }}-install)
-![Command 2 Status](https://img.shields.io/badge/Command%202-${{ steps.run.outputs.command-2-status }}-lint)
+[![Continuous Integration](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/main.yml/badge.svg)](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/main.yml)
+
+[![Install and Format](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/format.yml/badge.svg)](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/format.yml)
+
+[![Lint](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/lint.yml/badge.svg)](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/lint.yml)
+
+[![Tests](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/test.yml/badge.svg)](https://github.com/mkeohane01/Project1_IDS706/actions/workflows/test.yml)
 
 Using the polars libary was able to load, decribe, and plot various visulaztions of a basebal data set.
 
