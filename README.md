@@ -12,8 +12,15 @@ Using the pandas libary was able to load, decribe, and plot various visulaztions
 
 Performs these functions in both a Jupyter notebook and python script. Saves description statistics as descriptive_statistics.csv as well as each image.
 
+Project video link through YouTube: 
+
+https://youtu.be/CEohFX5lihw
+
 Histogram of players in each position:
+
 ![position counts](./position_counts.png)
 
 Scatter of heights vs weights of each player:
+
 ![weightvsheight](./weight_vs_height.png)
+
