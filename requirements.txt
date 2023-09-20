@@ -1,3 +1,8 @@
 black
 pytest
 pylint
+matplotlib
+pandas
+polars
+numpy
+nbval
